@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Roboto, Arial;
+}
+
+.main {
+  margin: 10px 15px;
+  display: flex;
+  
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.project-container {
+  border: 1px solid rgba(0, 0, 0, 0.13);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 320px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.description {
+  margin: 20px 20px;
+  text-align: center;
+}

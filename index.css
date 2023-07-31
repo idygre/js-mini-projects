@@ -3,6 +3,12 @@ body {
   font-family: Roboto, Arial;
 }
 
+h1 {
+  text-align: center;
+  margin-top: 65px;
+  margin-bottom: 100px;
+}
+
 .main {
   margin: 10px 15px;
   display: flex;

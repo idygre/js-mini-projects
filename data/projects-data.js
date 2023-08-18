@@ -2,7 +2,7 @@ const projects = [
   {
     id : "project1",
     image : "images/project-1.jpg",
-    title : "Project 1",
+    title : "Weather App",
     description : "lorem wifuhwl fiwileufh lwiuefh lu"
 
   },
@@ -17,6 +17,27 @@ const projects = [
     id : "project3",
     image : "images/project-1.jpg",
     title : "Project 3",
+    description : "lorem wifuhwl fiwileufh lwiuefh lu"
+
+  },
+  {
+    id : "project4",
+    image : "images/project-1.jpg",
+    title : "Project 2",
+    description : "lorem wifuhwl fiwileufh lwiuefh lu"
+
+  },
+  {
+    id : "project5",
+    image : "images/project-1.jpg",
+    title : "Project 3",
+    description : "lorem wifuhwl fiwileufh lwiuefh lu"
+
+  },
+  {
+    id : "project6",
+    image : "images/project-1.jpg",
+    title : "Project 2",
     description : "lorem wifuhwl fiwileufh lwiuefh lu"
 
   }

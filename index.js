@@ -9,8 +9,8 @@ projects.forEach((project) => {
   ${project.description}
   </div>
   
-  <button onclick="window.open('weather-app.html', '_blank' )">View Project</button>
-  <button onclick="window.location.href='https://github.com/'">Source Code</button>
+  <button onclick="window.open('${project.page}', '_blank' )">View Project</button>
+  <button onclick="window.open('${project.github}')">Source Code</button>
 
 </div>`
 })

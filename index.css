@@ -80,4 +80,10 @@ button {
   font-size: 18px;
   padding: 10px 15px;
   border-radius: 7px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #d4d0d0;
 }

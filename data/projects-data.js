@@ -20,10 +20,10 @@ const projects = [
   },
   {
     id : "project3",
-    image : "images/project-1.jpg",
-    title : "Project 3",
-    description : "lorem wifuhwl fiwileufh lwiuefh lu",
-    page : "weather-app.html",
+    image : "images/calculator.png",
+    title : "Calculator",
+    description : "A simple calculator with all necessary buttons.",
+    page : "calculator.html",
     github : "https://github.com/idygre/js-mini-projects"
 
   },
